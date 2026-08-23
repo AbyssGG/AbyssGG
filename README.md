@@ -19,9 +19,10 @@
 
 <br>
 
-I build software that runs AI **entirely on the local machine** — inference runtimes, the bindings
-underneath them, and the applications on top. No Python in the hot path, no cloud round-trip,
-nothing leaving the device.
+I build software that runs AI entirely on the local machine — inference runtimes, the bindings
+underneath them, and the applications on top.
+
+**No Python in the hot path. No cloud round-trip. Nothing leaves the device.**
 
 <br>
 
