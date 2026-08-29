@@ -1,0 +1,17 @@
+# ===== 核心运行时（必需）=====
+# OpenVINO 用途有两处，均为真实使用，不是摆设：
+#   1) 设备枚举与 AIPC 硬件门禁（run.ps1 缺少 host 的 platform.exe 时的回落路径）
+#   2) openvino-genai 的底层运行时
+openvino>=2026.0
+numpy<2.0
+
+# ===== 纯 Python 本地推理路径（必需）=====
+# 保证任何人 pip 装完即可复现，无需编译 Isvik。
+# 直接消费 ModelScope 上的 *-int4-ov IR 模型。
+openvino-genai>=2026.0
+
+# ===== 模型下载（必需）=====
+modelscope>=1.20.0
+
+# 说明：本 skill 不依赖任何云推理 SDK。
+# 与 Isvik 后端的通信使用标准库 urllib（HTTP/localhost），不引入 requests。

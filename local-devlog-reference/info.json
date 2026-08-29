@@ -1,0 +1,20 @@
+{
+    "venv_name": "devlog",
+    "python_version": "3.11",
+    "mem_need_gb": 3.0,
+    "server_alive_timeout": 600,
+    "models": [
+        {
+            "model_id": "OpenVINO/Qwen2.5-Coder-1.5B-Instruct-int4-ov",
+            "dir_name": "Qwen2.5-Coder-1.5B-Instruct-int4-ov",
+            "required_files": [
+                "config.json",
+                "openvino_model.xml",
+                "openvino_model.bin",
+                "openvino_tokenizer.bin",
+                "openvino_detokenizer.bin",
+                "tokenizer_config.json"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "display_name": "本地工程决策日志",
+    "display_description": "完全离线，从本地 git 变更中抽取带证据锚点的开发决策记录（DEVLOG / ADR）",
+    "detail_describe": "在英特尔 AI PC 上完全离线运行，读取本地 git 变更、测试输出与构建日志，按谷歌工程文档风格（ADR）生成决策记录，追加写入 DEVLOG.md。记录内容包含决策本身、明确不做什么（Non-Goals）、被否决的替代方案（Alternatives Considered）、实测事实与踩坑过程，每条声明都挂可核对的证据锚点（commit SHA、文件行号、测试输出片段）。核心原则是宁缺毋造：凡在本地找不到证据的字段一律标注「未验证」或「待补充」，绝不推断后当事实写。源代码、diff、架构决策与测试数据全程不出本机，适用于代码不允许外发的团队与需要留存技术决策依据的合规审计场景。",
+    "name": "local-devlog",
+    "icon": "https://resources.modelscope.cn/skills/local-devlog/icon.png",
+    "use_cases": [
+        "刚重构完一个模块，把这次为什么这样改、否决了哪些方案记进开发日志",
+        "把最近 3 个提交整理成一条工程决策记录，附上实测耗时与测试计数",
+        "为架构变更生成 ADR 条目，供后续团队交接与合规审计追溯",
+        "代码不允许外发的项目里，用本地模型沉淀技术决策而不上传任何源码"
+    ],
+    "author": "Github",
+    "version": "1.0.0"
+}

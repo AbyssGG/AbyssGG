@@ -1,0 +1,13 @@
+# Python 运行时产物
+__pycache__/
+*.py[cod]
+.ruff_cache/
+
+# 宿主在运行期生成的目录（不应进版本库）
+bin/
+wheels/
+
+# 本地生成的日志与模型缓存不在本目录，此处仅作提醒：
+#   日志   %USERPROFILE%\.openvino\log\
+#   模型   %USERPROFILE%\.openvino\models\
+#   venv   %USERPROFILE%\.openvino\venv\
