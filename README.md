@@ -41,7 +41,7 @@ I build native software for local AI, with a focus on Intel PCs: OpenVINO bindin
 </div>
 <p align="center"><sub>AMD GPU compute via the ROCm platform and HIP programming API.</sub></p>
 
-<details>
+<details open>
 <summary>Other tools and technologies</summary>
 
 <p align="center"><sub>Low-level &amp; architecture</sub></p>
