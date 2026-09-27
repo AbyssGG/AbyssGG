@@ -26,10 +26,10 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 <div align="center">
   <img alt="Nim — core stack" src="https://img.shields.io/badge/Nim-CORE-FFE953?style=for-the-badge&logo=nim&logoColor=111111">
   <img alt="OpenVINO — core stack" src="https://img.shields.io/badge/OpenVINO-CORE-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF">
-  <img alt="C++17 — used in Candlelight" src="https://img.shields.io/badge/C%2B%2B17-PROJECT%20USE-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
+  <img alt="C++ — used in Candlelight" src="https://img.shields.io/badge/C%2B%2B-PROJECT%20USE-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
 </div>
 
-<p align="center"><sub>Core project stack: Nim + OpenVINO · C++17 is used in Candlelight.</sub></p>
+<p align="center"><sub>Core project stack: Nim + OpenVINO · C++ is used in Candlelight.</sub></p>
 
 <p align="center"><sub>Additional technologies</sub></p>
 <div align="center">
@@ -48,4 +48,5 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 ## Contact
 
 For questions or bug reports, open an issue in the relevant repository.
+
 
