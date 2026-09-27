@@ -62,6 +62,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF">
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=111111">
+  <img alt="WebView2" src="https://img.shields.io/badge/WebView2-0D1117?style=for-the-badge">
 </div>
 
 <p align="center"><sub>Databases</sub></p>
@@ -73,6 +74,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 ## Contact
 
 For questions or bug reports, open an issue in the relevant repository.
+
 
 
 
