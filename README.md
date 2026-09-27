@@ -49,10 +49,12 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
   <img alt="Windows" src="https://img.shields.io/static/v1?message=Windows&color=0078D6&style=for-the-badge&logo=windows&logoColor=FFFFFF">
   <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=FFFFFF">
 </div>
-<p align="center"><sub>AI &amp; model formats</sub></p>
+<p align="center"><sub>AI, inference &amp; acceleration</sub></p>
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF">
   <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=FFFFFF">
+  <img alt="CUDA" src="https://img.shields.io/static/v1?message=CUDA&color=76B900&style=for-the-badge&logo=nvidia&logoColor=FFFFFF">
+  <img alt="TensorRT" src="https://img.shields.io/static/v1?message=TensorRT&color=76B900&style=for-the-badge&logo=nvidia&logoColor=FFFFFF">
 </div>
 
 <p align="center"><sub>Languages &amp; runtimes</sub></p>
@@ -86,6 +88,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 ## Contact
 
 For questions or bug reports, open an issue in the relevant repository.
+
 
 
 
