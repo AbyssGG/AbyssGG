@@ -48,7 +48,9 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
   <img alt="Linux" src="https://img.shields.io/static/v1?message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=111111">
   <img alt="Windows" src="https://img.shields.io/static/v1?message=Windows&color=0078D6&style=for-the-badge&logo=windows&logoColor=FFFFFF">
   <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=FFFFFF">
-  <img alt="VM" src="https://img.shields.io/static/v1?message=VM&color=4B5563&style=for-the-badge">
+  <img alt="VMware Workstation" src="https://img.shields.io/static/v1?message=VMware%20Workstation&color=607078&style=for-the-badge&logo=vmware&logoColor=FFFFFF">
+  <img alt="KVM" src="https://img.shields.io/static/v1?message=KVM&color=D61243&style=for-the-badge">
+  <img alt="Windows Hyper-V" src="https://img.shields.io/static/v1?message=Windows%20Hyper-V&color=0078D6&style=for-the-badge&logo=windows&logoColor=FFFFFF">
 </div>
 <p align="center"><sub>AI, inference &amp; acceleration</sub></p>
 <div align="center">
@@ -89,6 +91,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 ## Contact
 
 For questions or bug reports, open an issue in the relevant repository.
+
 
 
 
