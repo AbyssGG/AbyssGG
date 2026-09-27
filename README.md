@@ -46,6 +46,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 <p align="center"><sub>Platforms</sub></p>
 <div align="center">
   <img alt="Linux" src="https://img.shields.io/static/v1?message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=111111">
+  <img alt="Windows" src="https://img.shields.io/static/v1?message=Windows&color=0078D6&style=for-the-badge&logo=windows&logoColor=FFFFFF">
 </div>
 <p align="center"><sub>AI &amp; model formats</sub></p>
 <div align="center">
@@ -84,6 +85,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 ## Contact
 
 For questions or bug reports, open an issue in the relevant repository.
+
 
 
 
