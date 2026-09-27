@@ -90,7 +90,10 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 
 ## Contact
 
-For questions or bug reports, open an issue in the relevant repository.
+- **Email:** [ww809853@gmail.com](mailto:ww809853@gmail.com)
+- **Work email:** [admin@isvik.org](mailto:admin@isvik.org)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/%E4%BC%9F%E6%9D%B0-%E7%8E%8B-b39b5443a/)
+
 
 
 
