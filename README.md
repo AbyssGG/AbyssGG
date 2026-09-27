@@ -12,7 +12,7 @@
   </p>
 </div>
 
-I build native software for local AI on Intel PCs: OpenVINO bindings, inference runtimes, and offline applications in Nim and C++. Model inference stays on-device, with no Python runtime in the deployed path.
+I build native software for local AI, with a focus on Intel PCs: OpenVINO bindings, inference runtimes, and offline applications in Nim and C++. I also work with AMD GPU compute using ROCm and HIP. Model inference stays on-device, with no Python runtime in the deployed path.
 
 ## Projects
 
@@ -34,11 +34,17 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 
 <p align="center"><sub>Nim + OpenVINO power the core projects; C++ is used in Candlelight.</sub></p>
 
+<p align="center"><sub>Additional GPU compute</sub></p>
+<div align="center">
+  <a href="https://rocm.docs.amd.com/"><img alt="AMD ROCm — GPU compute" src="https://img.shields.io/badge/AMD_ROCm-GPU_COMPUTE-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
+</div>
+<p align="center"><sub>AMD GPU compute via ROCm and HIP.</sub></p>
+
 <details>
 <summary>Other tools and technologies</summary>
 
 - **Systems:** x86, ARM, Assembly, driver development, Win32 API
-- **AI and acceleration:** Python, ONNX, CUDA, TensorRT
+- **AI and acceleration:** AMD ROCm, HIP, Python, ONNX, CUDA, TensorRT
 - **Platforms and deployment:** Linux, Windows, Docker, VMware Workstation, KVM, Hyper-V
 - **Languages and UI:** C, Java, Rust, Go, C#, .NET, JavaScript, TypeScript, Node.js, HTML, PHP, Qt, WebView2
 - **Databases:** SQL, MySQL, SQLite
