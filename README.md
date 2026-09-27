@@ -90,26 +90,13 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 
 ## Contact
 
-- **Email:** [ww809853@gmail.com](mailto:ww809853@gmail.com)
-- **Work email:** [admin@isvik.org](mailto:admin@isvik.org)
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/%E4%BC%9F%E6%9D%B0-%E7%8E%8B-b39b5443a/)
-- **X:** [@Pension_qe](https://x.com/Pension_qe)
-- **YouTube:** [@Pension_qe](https://www.youtube.com/@Pension_qe)
-- **Bilibili:** [Profile](https://space.bilibili.com/310843881)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <a href="mailto:ww809853@gmail.com"><img alt="Email: ww809853@gmail.com" src="https://img.shields.io/badge/Email-ww809853%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
+  <a href="mailto:admin@isvik.org"><img alt="Work email: admin@isvik.org" src="https://img.shields.io/badge/Work%20Email-admin%40isvik.org-35495E?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/%E4%BC%9F%E6%9D%B0-%E7%8E%8B-b39b5443a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"></a>
+  <a href="https://x.com/Pension_qe"><img alt="X" src="https://img.shields.io/badge/X-%40Pension_qe-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"></a>
+  <a href="https://www.youtube.com/@Pension_qe"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"></a>
+  <a href="https://space.bilibili.com/310843881"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Profile-00A1D6?style=for-the-badge&logo=bilibili&logoColor=FFFFFF"></a>
+</div>
 
 
