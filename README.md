@@ -43,11 +43,11 @@ I build native software for local AI, with a focus on Intel PCs: OpenVINO bindin
 <details>
 <summary>Other tools and technologies</summary>
 
-- **Systems:** x86, ARM, Assembly, driver development, Win32 API
-- **AI and acceleration:** AMD ROCm, HIP, Python, ONNX, CUDA, TensorRT
-- **Platforms and deployment:** Linux, Windows, Docker, VMware Workstation, KVM, Hyper-V
-- **Languages and UI:** C, Java, Rust, Go, C#, .NET, JavaScript, TypeScript, Node.js, HTML, PHP, Qt, WebView2
-- **Databases:** SQL, MySQL, SQLite
+- **Systems &amp; low-level development:** x86, ARM, Assembly, driver development, Win32 API
+- **AI &amp; GPU computing:** AMD ROCm, HIP, Python, ONNX, CUDA, TensorRT
+- **Operating systems &amp; deployment:** Linux, Windows, Docker, VMware Workstation, KVM, Hyper-V
+- **Programming languages &amp; interface frameworks:** C, Java, Rust, Go, C#, .NET, JavaScript, TypeScript, Node.js, HTML, PHP, Qt, WebView2
+- **Database systems:** SQL, MySQL, SQLite
 
 </details>
 
