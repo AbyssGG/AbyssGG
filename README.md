@@ -41,6 +41,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
   <img alt="ARM" src="https://img.shields.io/static/v1?message=ARM&color=0091BD&style=for-the-badge">
   <img alt="Assembly" src="https://img.shields.io/static/v1?message=Assembly&color=6E7781&style=for-the-badge">
   <img alt="Driver Development" src="https://img.shields.io/static/v1?message=Driver%20Development&color=4B5563&style=for-the-badge">
+  <img alt="Win32 API" src="https://img.shields.io/static/v1?message=Win32%20API&color=0078D6&style=for-the-badge&logo=windows&logoColor=FFFFFF">
 </div>
 <p align="center"><sub>AI &amp; model formats</sub></p>
 <div align="center">
@@ -75,6 +76,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 ## Contact
 
 For questions or bug reports, open an issue in the relevant repository.
+
 
 
 
