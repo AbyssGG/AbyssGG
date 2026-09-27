@@ -16,6 +16,7 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 
 ## Projects
 
+- **[OpenVINO-Nim-API](https://github.com/AbyssGG/OpenVINO-Nim-API)** — community-maintained Nim bindings for the OpenVINO Runtime C API, with managed and header-faithful raw layers.
 - **[Isvik](https://github.com/AbyssGG/Isvik)** — local inference runtime for Intel AI PCs, built in Nim on OpenVINO, with local OpenAI- and Anthropic-compatible API endpoints.
 - **[Resonance](https://github.com/AbyssGG/Resonance)** — Nim bindings for the OpenVINO C API and the shared runtime layer behind Isvik and NimVoice.
 - **[NimVoice](https://github.com/AbyssGG/NimVoice)** — offline text-to-speech for Windows AI PCs, built with Nim and OpenVINO, with Intel NPU acceleration.
@@ -48,5 +49,6 @@ I build native software for local AI on Intel PCs: OpenVINO bindings, inference 
 ## Contact
 
 For questions or bug reports, open an issue in the relevant repository.
+
 
 
