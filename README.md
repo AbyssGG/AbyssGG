@@ -62,6 +62,7 @@ I build native software for local AI, with a focus on Intel PCs: OpenVINO bindin
   <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=FFFFFF">
   <a href="https://rocm.docs.amd.com/"><img alt="AMD ROCm — GPU compute" src="https://img.shields.io/badge/AMD_ROCm-GPU_COMPUTE-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
   <a href="https://rocm.docs.amd.com/projects/HIP/"><img alt="HIP — AMD GPU programming" src="https://img.shields.io/badge/HIP-AMD_GPU-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
+  <a href="https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/"><img alt="MIGraphX — AMD inference" src="https://img.shields.io/badge/MIGraphX-AMD%20INFERENCE-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
   <img alt="CUDA" src="https://img.shields.io/static/v1?message=CUDA&color=76B900&style=for-the-badge&logo=nvidia&logoColor=FFFFFF">
   <img alt="TensorRT" src="https://img.shields.io/static/v1?message=TensorRT&color=76B900&style=for-the-badge&logo=nvidia&logoColor=FFFFFF">
 </div>
