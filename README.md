@@ -26,10 +26,10 @@ I build native software for local AI on Intel PCs, from OpenVINO bindings and in
 
 ## Core stack
 
-<p align="center"><sub>NVIDIA acceleration</sub></p>
+<p align="center"><sub>Core languages</sub></p>
 <div align="center">
-  <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="CUDA — NVIDIA GPU compute" src="https://img.shields.io/badge/CUDA-GPU_COMPUTE-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
-  <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="TensorRT — experimental Isvik.cpp backend" src="https://img.shields.io/badge/TensorRT-EXPERIMENTAL-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
+  <img alt="Nim — core language" src="https://img.shields.io/badge/Nim-CORE-FFE953?style=for-the-badge&logo=nim&logoColor=111111">
+  <img alt="C++ — used in Isvik.cpp and Candlelight" src="https://img.shields.io/badge/C%2B%2B-PROJECT%20USE-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
 </div>
 
 <p align="center"><sub>Intel platform</sub></p>
@@ -39,10 +39,10 @@ I build native software for local AI on Intel PCs, from OpenVINO bindings and in
   <img alt="Intel NPU — target hardware" src="https://img.shields.io/badge/Intel_NPU-TARGET_HARDWARE-0D1117?style=for-the-badge&logo=intel&logoColor=0071C5">
 </div>
 
-<p align="center"><sub>Core languages</sub></p>
+<p align="center"><sub>NVIDIA acceleration</sub></p>
 <div align="center">
-  <img alt="Nim — core language" src="https://img.shields.io/badge/Nim-CORE-FFE953?style=for-the-badge&logo=nim&logoColor=111111">
-  <img alt="C++ — used in Isvik.cpp and Candlelight" src="https://img.shields.io/badge/C%2B%2B-PROJECT%20USE-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
+  <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="CUDA — NVIDIA GPU compute" src="https://img.shields.io/badge/CUDA-GPU_COMPUTE-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
+  <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="TensorRT — experimental Isvik.cpp backend" src="https://img.shields.io/badge/TensorRT-EXPERIMENTAL-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
 </div>
 
 <p align="center"><sub>Isvik is primarily built with Nim + OpenVINO; Isvik.cpp adds an experimental TensorRT path. C++ is also used in Candlelight.</sub></p>
