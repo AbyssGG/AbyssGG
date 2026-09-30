@@ -36,7 +36,6 @@ I build native software for local AI on Intel PCs, from OpenVINO bindings and in
 <div align="center">
   <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html"><img alt="Intel oneAPI — software platform" src="https://img.shields.io/badge/oneAPI-INTEL_PLATFORM-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF"></a>
   <img alt="OpenVINO — core inference runtime" src="https://img.shields.io/badge/OpenVINO-CORE-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF">
-  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=FFFFFF">
   <img alt="Intel NPU — target hardware" src="https://img.shields.io/badge/Intel_NPU-TARGET_HARDWARE-0D1117?style=for-the-badge&logo=intel&logoColor=0071C5">
 </div>
 
@@ -44,6 +43,7 @@ I build native software for local AI on Intel PCs, from OpenVINO bindings and in
 <div align="center">
   <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="CUDA — NVIDIA GPU compute" src="https://img.shields.io/badge/CUDA-GPU_COMPUTE-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
   <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="TensorRT — experimental Isvik.cpp backend" src="https://img.shields.io/badge/TensorRT-EXPERIMENTAL-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
+  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=FFFFFF">
 </div>
 
 <p align="center"><sub>Isvik is primarily built with Nim + OpenVINO; Isvik.cpp adds an experimental TensorRT path.</sub></p>
