@@ -36,6 +36,7 @@ I build native software for local AI on Intel PCs, from OpenVINO bindings and in
 <div align="center">
   <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html"><img alt="Intel oneAPI — software platform" src="https://img.shields.io/badge/oneAPI-INTEL_PLATFORM-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF"></a>
   <img alt="OpenVINO — core inference runtime" src="https://img.shields.io/badge/OpenVINO-CORE-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF">
+  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=FFFFFF">
   <img alt="Intel NPU — target hardware" src="https://img.shields.io/badge/Intel_NPU-TARGET_HARDWARE-0D1117?style=for-the-badge&logo=intel&logoColor=0071C5">
 </div>
 
@@ -72,7 +73,6 @@ I build native software for local AI on Intel PCs, from OpenVINO bindings and in
 <p align="center"><sub>AI, inference &amp; acceleration</sub></p>
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF">
-  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=FFFFFF">
   <a href="https://rocm.docs.amd.com/"><img alt="AMD ROCm — GPU compute" src="https://img.shields.io/badge/AMD_ROCm-GPU_COMPUTE-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
   <a href="https://rocm.docs.amd.com/projects/HIP/"><img alt="HIP — AMD GPU programming" src="https://img.shields.io/badge/HIP-AMD_GPU-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
   <a href="https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/"><img alt="MIGraphX — AMD inference" src="https://img.shields.io/badge/MIGraphX-AMD%20INFERENCE-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
