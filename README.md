@@ -12,11 +12,12 @@
   </p>
 </div>
 
-I build native software for local AI, with a focus on Intel PCs: OpenVINO bindings, inference runtimes, and offline applications in Nim and C++. I also work with AMD GPU compute using ROCm and HIP. Model inference stays on-device, with no Python runtime in the deployed path.
+I build native software for local AI on Intel PCs, from OpenVINO bindings and inference runtimes to offline applications in Nim and C++. I also work with AMD GPU compute using ROCm and HIP, and maintain an experimental NVIDIA TensorRT path in Isvik.cpp. Model inference stays on-device, with no Python runtime in the deployed path.
 
 ## Projects
 
 - **[Isvik](https://github.com/AbyssGG/Isvik)** — native local inference runtime for Intel AI PCs, built in Nim and OpenVINO, with OpenAI- and Anthropic-compatible local API endpoints.
+- **[Isvik.cpp](https://github.com/AbyssGG/Isvik.cpp)** — C++20 local AI runtime with OpenVINO as its primary backend and experimental NVIDIA TensorRT support.
 - **[OpenVINO-Nim-API](https://github.com/AbyssGG/OpenVINO-Nim-API)** — community-maintained Nim bindings for the OpenVINO Runtime C API, with managed and header-faithful raw layers.
 - **[Resonance](https://github.com/AbyssGG/Resonance)** — reusable Nim wrappers for OpenVINO inference, shared by Isvik and NimVoice.
 - **[NimVoice](https://github.com/AbyssGG/NimVoice)** — offline Windows text-to-speech built with Nim and OpenVINO, with Intel NPU acceleration.
@@ -25,14 +26,26 @@ I build native software for local AI, with a focus on Intel PCs: OpenVINO bindin
 
 ## Core stack
 
+<p align="center"><sub>NVIDIA acceleration</sub></p>
 <div align="center">
-  <img alt="Nim — core stack" src="https://img.shields.io/badge/Nim-CORE-FFE953?style=for-the-badge&logo=nim&logoColor=111111">
-  <img alt="OpenVINO — core stack" src="https://img.shields.io/badge/OpenVINO-CORE-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF">
-  <img alt="Intel NPU — target hardware" src="https://img.shields.io/badge/Intel_NPU-TARGET_HARDWARE-0D1117?style=for-the-badge&logo=intel&logoColor=0071C5">
-  <img alt="C++ — used in Candlelight" src="https://img.shields.io/badge/C%2B%2B-PROJECT%20USE-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
+  <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="CUDA — NVIDIA GPU compute" src="https://img.shields.io/badge/CUDA-GPU_COMPUTE-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
+  <a href="https://github.com/AbyssGG/Isvik.cpp"><img alt="TensorRT — experimental Isvik.cpp backend" src="https://img.shields.io/badge/TensorRT-EXPERIMENTAL-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF"></a>
 </div>
 
-<p align="center"><sub>Nim + OpenVINO power the core projects; C++ is used in Candlelight.</sub></p>
+<p align="center"><sub>Intel platform</sub></p>
+<div align="center">
+  <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html"><img alt="Intel oneAPI — software platform" src="https://img.shields.io/badge/oneAPI-INTEL_PLATFORM-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF"></a>
+  <img alt="OpenVINO — core inference runtime" src="https://img.shields.io/badge/OpenVINO-CORE-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF">
+  <img alt="Intel NPU — target hardware" src="https://img.shields.io/badge/Intel_NPU-TARGET_HARDWARE-0D1117?style=for-the-badge&logo=intel&logoColor=0071C5">
+</div>
+
+<p align="center"><sub>Core languages</sub></p>
+<div align="center">
+  <img alt="Nim — core language" src="https://img.shields.io/badge/Nim-CORE-FFE953?style=for-the-badge&logo=nim&logoColor=111111">
+  <img alt="C++ — used in Isvik.cpp and Candlelight" src="https://img.shields.io/badge/C%2B%2B-PROJECT%20USE-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
+</div>
+
+<p align="center"><sub>Isvik is primarily built with Nim + OpenVINO; Isvik.cpp adds an experimental TensorRT path. C++ is also used in Candlelight.</sub></p>
 
 <details open>
 <summary>Other tools and technologies</summary>
@@ -63,8 +76,6 @@ I build native software for local AI, with a focus on Intel PCs: OpenVINO bindin
   <a href="https://rocm.docs.amd.com/"><img alt="AMD ROCm — GPU compute" src="https://img.shields.io/badge/AMD_ROCm-GPU_COMPUTE-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
   <a href="https://rocm.docs.amd.com/projects/HIP/"><img alt="HIP — AMD GPU programming" src="https://img.shields.io/badge/HIP-AMD_GPU-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
   <a href="https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/"><img alt="MIGraphX — AMD inference" src="https://img.shields.io/badge/MIGraphX-AMD%20INFERENCE-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF"></a>
-  <img alt="CUDA" src="https://img.shields.io/static/v1?message=CUDA&color=76B900&style=for-the-badge&logo=nvidia&logoColor=FFFFFF">
-  <img alt="TensorRT" src="https://img.shields.io/static/v1?message=TensorRT&color=76B900&style=for-the-badge&logo=nvidia&logoColor=FFFFFF">
 </div>
 
 <p align="center"><sub>Languages &amp; runtimes</sub></p>
