@@ -28,8 +28,8 @@ I build native software for local AI on Intel PCs, from OpenVINO bindings and in
 
 <p align="center"><sub>Core languages</sub></p>
 <div align="center">
-  <img alt="Nim — core language" src="https://img.shields.io/badge/Nim-CORE-FFE953?style=for-the-badge&logo=nim&logoColor=111111">
   <img alt="C++ — project use" src="https://img.shields.io/badge/C%2B%2B-PROJECT%20USE-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
+  <img alt="Nim — core language" src="https://img.shields.io/badge/Nim-CORE-FFE953?style=for-the-badge&logo=nim&logoColor=111111">
 </div>
 
 <p align="center"><sub>Intel platform</sub></p>
